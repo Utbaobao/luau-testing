@@ -1,0 +1,478 @@
+{
+    "Items": [
+        {
+            "SettingsMapper": {
+                "showFPS": true,
+                "targetFrameRate": 200,
+                "hidePlayerConnectDisConnect": true,
+                "HideInventory": true,
+                "DisableCrosshair": false,
+                "EnableMiniMap": true,
+                "MiniMapViewArea": 30.0,
+                "enableChatFilter": false,
+                "disableShowDamageInDM": false,
+                "useLeftHand": false,
+                "SilencerAsDefault": true,
+                "guiScaleFix": -25,
+                "GeneralQuality": 5,
+                "MasterTextureLimit": 10,
+                "AnisotropicFiltering": 0,
+                "SoftParticles": false,
+                "SoftVegetation": false,
+                "PixelLightCount": 0,
+                "Shadows": 0,
+                "ShadowProjection": 1,
+                "ShadowResolution": 3,
+                "ShadowCascades": 4,
+                "ShadowDistance": 150,
+                "BlendWeights": 1,
+                "ParticleRaycastBudget": 4,
+                "PlayersAlwaysVisible2": false,
+                "OcclusionCulling": false,
+                "EnableBlood": false,
+                "MobileSkins": false,
+                "BloodAndDeadDestroyTimer": 0,
+                "EnableEffects": false,
+                "EnableBulletEffect": true,
+                "DisableRagDolls": true,
+                "disableSprays": true,
+                "GrenadeTrajectoryTimer": 120,
+                "fxlimit": 1,
+                "ScreenWidth": 423,
+                "ScreenHeight": 401,
+                "sensivityDefaultX": 0.37372249364852908,
+                "sensivityDefaultY": 0.32736843824386599,
+                "sensivityScopeX": 0.2967209815979004,
+                "sensivityScopeY": 0.3558378219604492,
+                "sensivityGyroDefaultX": 1.0,
+                "sensivityGyroDefaultY": 1.0,
+                "sensivityGyroScopeX": 1.0,
+                "sensivityGyroScopeY": 1.0,
+                "SimpleSensivity": false,
+                "EnableGyroscope": false,
+                "DynamicJoystic": true,
+                "WalkThroughJoystick": false,
+                "JoystickWalkSensivity": 0.0,
+                "PinJoystickHandle": true,
+                "WeaponAutoSwitch": true,
+                "EnableSmooth": false,
+                "SmoothFactor": 0.699999988079071,
+                "EnableNoiseRemover": false,
+                "NoiseRemover": 30.0,
+                "WeaponWheelDelay": 0.0,
+                "oldSnipShoot": false,
+                "ScopeZoomSlider": false,
+                "Back2ScopeOnShoot": false,
+                "RetentionScope": false,
+                "RetentionStref": false,
+                "RetentionCrouch": false,
+                "InvertMouseX": false,
+                "InvertMouseY": false,
+                "localDisableVoice": true,
+                "VoiceVolume": 0.0,
+                "DisableHeadShotSound": false,
+                "SoundVolume": 1.0,
+                "disableMultikillSound": false,
+                "DisableScrLeadSounds": false,
+                "MainMenuDisableSound": false,
+                "MainMenuVolume": 0.0,
+                "CrosshairIsStatic": true,
+                "CrosshairHitmarkerEnable": true,
+                "CrosshairPointEnable": false,
+                "CrosshairPointOnly": false,
+                "CrosshairMainRiskLength": 1,
+                "CrosshairMainRiskWidth": 3,
+                "CrosshairMainRiskScopeWidth": 2,
+                "CrosshairMainDist": 3,
+                "CrosshairPointSize": 1,
+                "CrosshairHitmarkerRiskLength": 50,
+                "CrosshairHitmarkerRiskWidth": 5,
+                "CrosshairHitmarkerDist": 23,
+                "CrosshairMainRisksColor": "2CFF00",
+                "CrosshairHitmarkerRisksColor": "FFFFFF",
+                "CrosshairHitmarkerRisksOutlineColor": "FF7900",
+                "CrosshairPointColor": "B10E07"
+            },
+            "ControlsMapper": [
+                {
+                    "Name": "Joystick",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 209.82452392578126,
+                        "y": 121.37362670898438
+                    },
+                    "Scale": {
+                        "x": 419.6490478515625,
+                        "y": 242.74725341796876
+                    }
+                },
+                {
+                    "Name": "Shoot",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 359.02410888671877,
+                        "y": -93.33268737792969
+                    },
+                    "Scale": {
+                        "x": 160.4521484375,
+                        "y": 160.4521484375
+                    }
+                },
+                {
+                    "Name": "Shoot2",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": -122.0,
+                        "y": 0.0
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "Scope",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 515.742431640625,
+                        "y": 16.974266052246095
+                    },
+                    "Scale": {
+                        "x": 94.34722900390625,
+                        "y": 94.34722900390625
+                    }
+                },
+                {
+                    "Name": "Jump",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 509.2554016113281,
+                        "y": -98.10905456542969
+                    },
+                    "Scale": {
+                        "x": 107.87738037109375,
+                        "y": 107.87738037109375
+                    }
+                },
+                {
+                    "Name": "Crouch",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 485.8332824707031,
+                        "y": -219.18634033203126
+                    },
+                    "Scale": {
+                        "x": 114.44232177734375,
+                        "y": 114.44232177734375
+                    }
+                },
+                {
+                    "Name": "Stref",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 376.5,
+                        "y": -232.0
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "Camera",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": -333.0,
+                        "y": -232.0
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "Сhat",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": -317.50738525390627,
+                        "y": 226.31768798828126
+                    },
+                    "Scale": {
+                        "x": 38.456024169921878,
+                        "y": 38.456024169921878
+                    }
+                },
+                {
+                    "Name": "Shop",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": -397.5064392089844,
+                        "y": 60.27727508544922
+                    },
+                    "Scale": {
+                        "x": 71.20025634765625,
+                        "y": 71.20025634765625
+                    }
+                },
+                {
+                    "Name": "Drop",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 423.1768798828125,
+                        "y": 109.49006652832031
+                    },
+                    "Scale": {
+                        "x": 77.23541259765625,
+                        "y": 77.23541259765625
+                    }
+                },
+                {
+                    "Name": "SwitchHand",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 393.79998779296877,
+                        "y": 225.00994873046876
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "Voice",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": -298.048095703125,
+                        "y": 187.2577667236328
+                    },
+                    "Scale": {
+                        "x": 36.818450927734378,
+                        "y": 36.818450927734378
+                    }
+                },
+                {
+                    "Name": "Spray",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": -225.9998779296875,
+                        "y": 126.0
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "Reload",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 419.6183166503906,
+                        "y": 20.055625915527345
+                    },
+                    "Scale": {
+                        "x": 79.9212646484375,
+                        "y": 79.9212646484375
+                    }
+                },
+                {
+                    "Name": "Statistics",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": -335.5997009277344,
+                        "y": 185.04896545410157
+                    },
+                    "Scale": {
+                        "x": 36.674102783203128,
+                        "y": 36.674102783203128
+                    }
+                },
+                {
+                    "Name": "Settings",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 6.5,
+                        "y": 225.00994873046876
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "SettingsTZ",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 6.5,
+                        "y": 133.20001220703126
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "Menu",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": -318.7621154785156,
+                        "y": 88.14646911621094
+                    },
+                    "Scale": {
+                        "x": 69.7484130859375,
+                        "y": 69.7484130859375
+                    }
+                },
+                {
+                    "Name": "FlashLight",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 144.48410034179688,
+                        "y": 256.47296142578127
+                    },
+                    "Scale": {
+                        "x": 53.360992431640628,
+                        "y": 53.360992431640628
+                    }
+                },
+                {
+                    "Name": "MapPoint",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 515.9998168945313,
+                        "y": 139.39999389648438
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "WeaponWheel",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 335.2356262207031,
+                        "y": 34.458953857421878
+                    },
+                    "Scale": {
+                        "x": 76.31170654296875,
+                        "y": 76.31170654296875
+                    }
+                },
+                {
+                    "Name": "GrenadeWheel",
+                    "Enabled": true,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 340.694091796875,
+                        "y": 122.14004516601563
+                    },
+                    "Scale": {
+                        "x": 69.91549682617188,
+                        "y": 69.91549682617188
+                    }
+                },
+                {
+                    "Name": "Knife",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 167.0,
+                        "y": 67.0
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "Gun",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 265.0,
+                        "y": 67.0
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "Pistol",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 367.0,
+                        "y": 67.0
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                },
+                {
+                    "Name": "Bomb",
+                    "Enabled": false,
+                    "SwipeOut": false,
+                    "AlphaColor": 1.0,
+                    "Position": {
+                        "x": 465.0,
+                        "y": 67.0
+                    },
+                    "Scale": {
+                        "x": 80.0,
+                        "y": 80.0
+                    }
+                }
+            ]
+        }
+    ]
+}
